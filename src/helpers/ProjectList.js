@@ -1,39 +1,23 @@
 import Proj1 from "../assets/proj1.jpg";
 import Proj2 from "../assets/proj2.jpg";
 import Proj3 from "../assets/proj3.webp";
-import Proj4 from "../assets/proj4.webp";
-import Proj5 from "../assets/proj5.jpg";
-import Proj6 from "../assets/proj6.png";
+
 
 export const ProjectList = [
   {
-    name: "Dijkstra Algorithm Visualizer",
+    name: "Movie and Show Database ",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+    skills: "React,JavaScript,HTML,CSS,NodeJs,PostgreSQL,Express.JS,Third-party API",
   },
   {
-    name: "Ecommerce Website",
+    name: "Ecommerce website",
     image: Proj2,
-    skills: "React,Node.js,MongoDB",
+    skills: "JavaScript,HTML,CSS,C#,.Net core",
   },
   {
-    name: "Spotify Clone",
+    name: "Dijkstra Algorithm Visualizer",
     image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
-  },
-  {
-    name: "Social Media Website",
-    image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
-  },
-  {
-    name: "Dashboard Visualizer",
-    image: Proj5,
     skills: "JavaScript,HTML,CSS",
   },
-  {
-    name: "Mobile Game",
-    image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
-  },
+ 
 ];
